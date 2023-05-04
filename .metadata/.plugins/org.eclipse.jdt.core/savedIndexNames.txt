@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Rushikesh_Drive\NucsoftTraining\Java\.metadata\.plugins\org.eclipse.jdt.core
+4223037866.index
+2360426812.index
+364384390.index
+1865797976.index
